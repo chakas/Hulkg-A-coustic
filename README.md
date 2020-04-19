@@ -17,4 +17,4 @@ TODO
 =======
 Here I used many css effects, also used jQuery for smooth scrolling.The site is also responsive. 
 
->>>>>> c64500426076083d3728b15f0580edc7e613a0c0
+
