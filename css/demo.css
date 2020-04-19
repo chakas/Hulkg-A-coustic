@@ -3,6 +3,7 @@
 /* General Style */
 body {
 	font-family: 'Open Sans Condensed', 'Arial Narrow', serif;
+	/*to figure out why the image appear on other pages not only on the starter page*/
 	/*background: url(../images/nav-bg2.jpg)no-repeat; */
 	font-weight: 400;
 	font-size: 15px;
