@@ -113,7 +113,7 @@
   bottom: 0;
   transform: rotateX(90deg);
   transform-origin: bottom;
-  background-color: #156469;
+  background-color: #02481c;
 }
 
 .banner-btn::after {
