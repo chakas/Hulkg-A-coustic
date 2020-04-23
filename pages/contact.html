@@ -9,6 +9,7 @@
   <link rel="stylesheet" type="text/css" media="screen" href="../css/style.css" />
   <script src="../js/jquery-3.3.1.min.js"></script>
   <script src="../js/main.js"></script>
+  <script src="../js/contact_form.js"></script>
 </head>
 
 <body>
@@ -32,15 +33,21 @@
       <h2>Contact</h2>
     </div>
 
-    <div class="caption">
 
-      <h1>Contact</h1>
-      <p>
-        TODO: TO CREATE A CONTACT FORM!!!!
+    <form class="form">
+      <input type="text" class="name entry " placeholder="Your Name" />
 
-        PAGE UNDER CONSTRUCTION!
-      </p>
+      <input type="text" class="email entry" placeholder="Email" />
+
+      <textarea class="message entry" placeholder="Message"></textarea>
+
+      <button class="submit entry" onclick="thanks()">Submit</button>
+    </form>
+
+    <div class="shadow"></div>
     </div>
+
+
 
 
 
@@ -50,14 +57,7 @@
 
     <!-- Footer -->
     <footer>
-      <h3>Get In touch</h3>
-      <p>Email or Call Me To Set Up A Meeting</p>
-      <p>Email:
-        <strong>ron.aetz@gmx.com</strong>
-      </p>
-      <p>Phone:
-        <strong>+491708368563</strong>
-      </p>
+
 
       <!--Redirecting Links to different  PAGES-->
       <a href="../index.html">Home</a>
