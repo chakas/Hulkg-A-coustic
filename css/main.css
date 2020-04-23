@@ -96,7 +96,7 @@
   transition: transform 0.5s;
   text-shadow: 0 10px 10px #000;
   color: #fff;
-  background: linear-gradient(#159109, #0c6d29);
+  background: linear-gradient(#0a3e05, #0c6d29);
 }
 
 /* animation 3D */
@@ -113,7 +113,7 @@
   bottom: 0;
   transform: rotateX(90deg);
   transform-origin: bottom;
-  background-color: #02481c;
+  background-color: #043206;
 }
 
 .banner-btn::after {
